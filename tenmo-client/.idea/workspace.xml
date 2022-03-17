@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecaa50eb-1351-45df-af74-bdc94f33beb3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="269WgjwmzMwmVBNKZEhWQpoWzaG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tenmo-server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.App" />
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecaa50eb-1351-45df-af74-bdc94f33beb3" name="Changes" comment="" />
+      <created>1646836396323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646836396323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-opera-driver" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest-core" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-plugin" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-exec" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.mojo:animal-sniffer-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:com.squareup.okhttp3:okhttp" />
+    <option featureType="dependencySupport" implementationName="java:com.google.j2objc:j2objc-annotations" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:docstring" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-edge-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-ie-driver" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-gherkin" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:datatable" />
+    <option featureType="dependencySupport" implementationName="java:org.bouncycastle:bcprov-jdk16" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-support" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-beans" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-test" />
+    <option featureType="dependencySupport" implementationName="java:com.squareup.okio:okio" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.findbugs:jsr305" />
+    <option featureType="dependencySupport" implementationName="java:com.google.guava:guava" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-gherkin-vintage" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-core" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:tag-expressions" />
+    <option featureType="dependencySupport" implementationName="java:com.google.errorprone:error_prone_annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-chrome-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-remote-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.mockito:mockito-all" />
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-expressions" />
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-firefox-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-safari-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.apiguardian:apiguardian-api" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jcl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-web" />
+    <option featureType="dependencySupport" implementationName="java:org.checkerframework:checker-compat-qual" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/tenmo/services/UserService.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/tenmo/services/UserService.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/tenmo/services/TransferService.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
